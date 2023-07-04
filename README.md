@@ -1,4 +1,5 @@
 # OSCP-Playbook
 My playbook for OSCP Exam
 
-For my methodoloy and command, check OSCP Playbook.
+For methodoloy and command, check OSCPPlaybook.
+For tools I used, check /Tools.
