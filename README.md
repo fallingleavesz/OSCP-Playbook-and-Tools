@@ -1,2 +1,2 @@
 # OSCP
-I have just finished the OSCP exam, and plan to share my playbood, tools, and my experience in the following days.
+I have just finished the OSCP exam, and share my playbood and tools.
